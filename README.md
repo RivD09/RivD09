@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RivD09
 - 👀 I’m interested in technology things, for example computers, smarthpones and similars.
-- 🌱 I’m currently learning web development
+- 🌱 I’m currently learning Angular
 - 💞️ I’m looking to collaborate on proyects where improve my knowledge
 
 <!---
